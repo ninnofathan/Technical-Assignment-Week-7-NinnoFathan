@@ -1,0 +1,35 @@
+NINNO FATHAN ASY'SIDIQ RINALDI
+
+1. mkdir Ninno
+2. cd Ninno
+3. mkdir sekolah
+4. mkdir kerja
+5. cd sekolah
+6. touch ijazah.txt
+7. nano ijazah.txt
+8. lalu isi dengan:
+Perkenalkan namaku Ninno
+Aku berasal dari Padalarang
+Salam Kenal :D
+9. cat ijazah.txt
+10. touch portfolio.txt
+11. nano portfolio.txt
+12. isi dengan:
+Saya pernah bekerja pada beberapa perusahaan salah satu diantaranya ialah
+- Samsung
+- Philipps
+- Lintasarta
+13. cd ..
+14. cd kerja
+15. touch cv.txt
+16. nano cv.txt
+17. isi dengan:
+Salam,
+
+Perkenalkan namaku Ninno, saya memiliki kegemaran
+- Bermain alat musik
+- Berbicara didepan umum
+- Mencari hal baru
+18. cat cv.txt
+19. cd ..
+20. mv sekolah/portfolio.txt kerja/
